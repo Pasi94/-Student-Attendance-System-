@@ -1,0 +1,4 @@
+
+ECSI400		SDP01		400		BreakoutRoom		DR.Foster		6		4		
+
+ECSI401		CSF		300		SonicRoom		Mr.Kamal		8		2		

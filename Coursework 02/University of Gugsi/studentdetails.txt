@@ -1,0 +1,14 @@
+
+2014001	Manik	Ramathi	ECSI400		
+
+2014002	Indula	Ramith	ECSI400		
+
+2014003	Purna	Pasindu	ECSI400		
+
+2014004	Dulanga	Tharaka	ECSI401		
+
+2014005	Perera	Namali	ECSI401		
+
+2014006	Hashan	Imantha	ECSI400		
+
+2014007	Wijaya	Sahan	ECSI401		
